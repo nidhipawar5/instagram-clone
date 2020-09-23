@@ -1,4 +1,4 @@
 # Instagram Clone Using React
-# Desktop Version
+#Desktop Version
 
-![alt text]()
+![alt text](https://github.com/nidhipawar5/MyPortfolioWebsite/blob/master/assets/img/Screenshot%202020-09-23%20205227.png)
